@@ -3,7 +3,7 @@
 
 ## Hello! 
 Hello! My name is Ruby and I'm from London. I did my undergrad in Edinburgh, Scotland and took a year pre- and post-undergrad to travel. One of my favourite travelling experiences was cycling in the countryside in Southern China near Yangshuo. 
-![Yangshuo Picture] (./Images/one.jpeg)
+![Yangshuo Picture](./Images/one.jpeg)
 
 ## I love sports 
 I love sports and being outdoors - in DC I go running and cycling a lot. In the summers I used to teach windsurfing in Greece. 
