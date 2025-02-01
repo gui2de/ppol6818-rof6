@@ -6,7 +6,9 @@ Hello! My name is Ruby and I'm from London. I did my undergrad in Edinburgh, Sco
 ![Yangshuo Picture](./Images/one.jpeg)
 
 ## I love sports 
-I love sports and being outdoors - in DC I go running and cycling a lot. In the summers I used to teach windsurfing in Greece. 
+I love sports and being outdoors - in DC I go running and cycling a lot. 
+Here is a photo from my last run: 
+![DC Run Picture](./Images/run.jpg)
 
 ## Some of my favourite sports are: 
 - running
