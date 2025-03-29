@@ -38,5 +38,5 @@ In the table above we see that the confidence interval narrows as N gets larger 
 
 ## PART 1 vs PART 2 
 
-We see that for N = 10, the width of the confidence interval is very similar ~0.6 
+We see that for N = 10, the width of the confidence interval is very similar ~0.6. For N = 100, the width of the CI for part 1 is 0.157 whereas, for part 2 it is 0.153. 
 
