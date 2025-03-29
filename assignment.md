@@ -19,3 +19,6 @@ Finally, in the table below we see that the confidence interval narrows as N get
 
 
 ## PART 2
+
+ ![Histogramparttwo](./part2graph.png)
+ 
