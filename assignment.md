@@ -25,5 +25,5 @@ Finally, in the table below we see that the confidence interval narrows as N get
 
 
 
-  ![Box](./boxpart2.jpg)
+  ![Box](./boxpart2.png)
  
