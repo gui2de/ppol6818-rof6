@@ -23,11 +23,20 @@ Finally, in the table below we see that the confidence interval narrows as N get
 
  ![Histogramparttwo](./part2graph.jpg)
 
+We see that as N increases the spread of beta coefficients narrows and becomes more precise.
 
 
   ![Box](./boxpart2.png)
 
+In the boxplot below for part 2, we see that as N increases the variation in the beta estimates reduces, much like in part 1. 
 
   
   ![tablepart2](./part2table.png)
- 
+
+
+In the table above we see that the confidence interval narrows as N gets larger and that the standard error of the beta estimates reduces significantly as the sample size increases. The standard errors does not change significantly, although it gets closer to 10 as the sample size increases. The confidence interval gets smaller and smaller as the sample size increases.
+
+## PART 1 vs PART 2 
+
+We see that for N = 10, the width of the confidence interval is very similar ~0.6 
+
