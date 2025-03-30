@@ -23,7 +23,7 @@ Finally, in the table below we see that the confidence interval narrows as N get
 
  ![Histogramparttwo](./part2graph.jpg)
 
-We see that as N increases the spread of beta coefficients narrows and becomes more precise.
+We see that as N increases the spread of beta coefficients narrows and becomes more precise. When N is 4, the spread of estimates is much greater compared to when N increases beyond 1,000/10,0000.
 
 
   ![Box](./boxpart2.png)
@@ -38,5 +38,5 @@ In the table above we see that the confidence interval narrows as N gets larger 
 
 ## PART 1 vs PART 2 
 
-We see that for N = 10, the width of the confidence interval is very similar ~0.6. For N = 100, the width of the CI for part 1 is 0.157 whereas, for part 2 it is 0.153. 
+We see that for N = 10, the width of the confidence interval is very similar ~0.6. For N = 100, the width of the CI for part 1 is 0.157 whereas, for part 2 it is 0.153. This can be understood/expected since in part 1, we are pulling a sample of e..g, 100 from a dataset of 10,000 whereas, in part 2, we are regressing on a population of 100, therefore, it is not surprising that the accuracy between both parts is relatively similar. Moreover, for both parts 1 and 2, we see the same pattern as the sample size increases, whereby the estimates become more and more accurate.
 
