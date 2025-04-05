@@ -19,3 +19,6 @@ I created 3 different covariates:
 - **convergence** in the results since the distributions of coefficient estimates become narrower as sample size increases.
 - **reduction of bias** since the coefficient distributions for different models are centered differently which suggests that some models reduce bias more effectively than others.
 - **effects of increasing sample size**: The graphs  show that at smaller sample sizes (N=27, N=243), the estimates have higher variance, whereas, at larger sample sizes (N=2,187, N=19,683), the distributions become more concentrated.
+
+
+ ![graph](./graph.png)
