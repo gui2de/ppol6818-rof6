@@ -5,5 +5,5 @@ P.5 if only able to afford to provide treatment to 30% of the sample, the sample
 
 ## PART 2
 P.5 I would recommend a cluster size of 8 (ie 2^3) because it achieves high power (92.8%) and power only increases slightly when going to larger cluster size like 2^4 (16), which only provides a relatively small increase (from 92.8% to 97.2%). Using a smaller cluster size is more economical in terms of time and resources which are important considerations in planning a study.  <br />
-P.6 
+P.6 To achieve 80% power, at least 90 schools (with 15 students each) would be required to detect a 0.2 sd treatment effect in the study. <br />
 P.7 
