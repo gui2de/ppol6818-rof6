@@ -21,4 +21,8 @@ I created 3 different covariates:
 - **effects of increasing sample size**: The graphs  show that at smaller sample sizes (N=27, N=243), the estimates have higher variance, whereas, at larger sample sizes (N=2,187, N=19,683), the distributions become more concentrated.
 
 
- ![graph](./Graph.png)
+ ![graph](./graphone.png)
+  ![graph](./graph2.png)
+   ![graph](./graph3.png)
+    ![graph](./graph4.png)
+     ![graph](./graph5.png)
