@@ -42,9 +42,8 @@ We created a check for survey duration by enumerator that flags surveys that are
 - putdocx save demodoc.docx, replace
 - restore
 
-
- ![grdsaph](./dur.png)
-  ![grdaph](./duration.png)
+![grdsaph](./dur.png)
+![grdaph](./duration.png)
 ***************************************
 ### Check 2: Missing Values 
 This check was designed to flag enumerators who have a high number of missing values. This may be especially important if there is an important variable that is part of the study (e.g., income) but for some reason is hard to measure (potentially because it takes respondents lots of time to think / calculate their income, or if for some reason it requires extra effort by the enumerator to explain the question and collect accurate data, enumerators may be inclined to skip the question to save time and effort. This would be concerning if it was a primary outcome variable that is important to the study design / analysis. Therefore, we might want to capture by enumerator how many missing values we have of e..g, a particularly important variable or how many missing values in total by enumerator (since this might be a concern if an enumerator is inclined to just skip a question when they don't feel like collecting the data). It could also be helpful to highlight particular questions that are getting skipped / giving back missing values for lots of enumerators, because maybe then the question needs to be reframed/redesigned to make it easier for enumerators to ask the question. And the other resaon we might want to measure missing values by enumerator at a higher level is to ensure they are not skipping questions to reduce their required effort. Moreover, it may highlight that enumerators are having trouble extracting the info from respondents if many enumerators have missing values for the same question, in which case, the field manager could organize a meeting to uncover what the issue is and then potentially reword the question or remove it and replace it with something more appropriate.
